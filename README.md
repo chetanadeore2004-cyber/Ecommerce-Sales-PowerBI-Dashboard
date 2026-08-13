@@ -58,28 +58,22 @@ The dashboard includes:
 9. How does sales performance vary between male and female customers?
 10. Which products should the business focus on?
 ---
-##  Dashboard Preview
-![Ecommerce Dashboard](Ecommerce_Dashboard.png)
----
-## 🔄 Project Workflow
-
-Raw Data
-↓
-Data Cleaning
-↓
-Data Transformation
-↓
-Data Modeling
-↓
-DAX Measures
-↓
-Data Visualization
-↓
-Interactive Power BI Dashboard
-↓
-Business Insights
-
----
 ##  Project Structure
 ```text
 Dashboard/Dataset/Images/Documentation/README.md
+---
+## Dashboard Preview
+![Ecommerce Dashboard](Ecommerce_Dashboard.png)
+---
+### Data Available
+- Product Name – Name of the product
+- Product Category – Category such as Electronics, Fashion, Grocery, etc.
+- Gender – Customer gender
+- Region – Customer/business region
+- Payment Method – COD, Credit Card, Debit Card, Net Banking, UPI, Wallet
+- Amount – Total sales amount
+- Purchase Cost – Cost associated with purchasing the product
+- Profit – Profit generated from the transaction
+---
+## Root Cause Summary
+The main causes of variation in ecommerce performance are differences in product profitability, purchase costs, payment preferences, product categories, customer segments, and regional demand. Analyzing these factors together helps identify the reasons behind higher or lower sales and profit.
