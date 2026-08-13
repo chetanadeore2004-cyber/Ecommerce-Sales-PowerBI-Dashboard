@@ -58,10 +58,7 @@ The dashboard includes:
 9. How does sales performance vary between male and female customers?
 10. Which products should the business focus on?
 ---
-##  Project Structure
-```text
-Dashboard/Dataset/Images/Documentation/README.md
----
+
 ## Dashboard Preview
 ![Ecommerce Dashboard](Ecommerce_Dashboard.png)
 ---
@@ -77,3 +74,7 @@ Dashboard/Dataset/Images/Documentation/README.md
 ---
 ## Root Cause Summary
 The main causes of variation in ecommerce performance are differences in product profitability, purchase costs, payment preferences, product categories, customer segments, and regional demand. Analyzing these factors together helps identify the reasons behind higher or lower sales and profit.
+---
+##  Project Structure
+```text
+Dashboard/Dataset/Images/Documentation/README.md
