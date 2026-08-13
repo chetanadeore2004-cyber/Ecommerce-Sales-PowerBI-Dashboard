@@ -72,8 +72,9 @@ The dashboard includes:
 - Purchase Cost – Cost associated with purchasing the product
 - Profit – Profit generated from the transaction
 ---
-## Root Cause Summary
+## Root Cause Analysis
 The main causes of variation in ecommerce performance are differences in product profitability, purchase costs, payment preferences, product categories, customer segments, and regional demand. Analyzing these factors together helps identify the reasons behind higher or lower sales and profit.
+
 ---
 ##  Project Structure
 ```text
