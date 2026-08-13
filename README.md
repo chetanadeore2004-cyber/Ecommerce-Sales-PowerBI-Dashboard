@@ -61,7 +61,8 @@ The dashboard includes:
 ##  Dashboard Preview
 ![Ecommerce Dashboard](Ecommerce_Dashboard.png)
 ---
-##  Project Workflow
+## 🔄 Project Workflow
+
 Raw Data
 ↓
 Data Cleaning
@@ -77,29 +78,8 @@ Data Visualization
 Interactive Power BI Dashboard
 ↓
 Business Insights
----
-##  Skills Demonstrated
-- Data Cleaning
-- Data Transformation
-- Data Analysis
-- Power BI Dashboard Development
-- DAX
-- Power Query
-- KPI Creation
-- Interactive Slicers
-- Data Visualization
-- Business Intelligence
+
 ---
 ##  Project Structure
 ```text
-ecommerce-sales-powerbi-dashboard/
-│
-├── README.md
-├── PowerBI/
-│   └── Ecommerce_Dashboard.pbix
-├── Dataset/
-│   └── ecommerce_sales_data.csv
-├── Dashboard/
-│   └── Ecommerce_Dashboard.png
-└── Documentation/
-    └── Project_Description.md
+Dashboard/Dataset/Images/Documentation/README.md
