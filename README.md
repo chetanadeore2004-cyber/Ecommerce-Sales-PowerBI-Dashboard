@@ -16,7 +16,7 @@ The business wants to understand:
 - Regional performance
 A Power BI dashboard can help management monitor these metrics and make better data-driven decisions.
 ---
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - Microsoft Power BI
 - Power Query
 - DAX
@@ -59,7 +59,7 @@ The dashboard includes:
 10. Which products should the business focus on?
 ---
 ##  Dashboard Preview
-![Ecommerce Dashboard](Dashboard/Ecommerce_Dashboard.png)
+![Ecommerce Dashboard](Ecommerce_Dashboard.png)
 ---
 ##  Project Workflow
 Raw Data
